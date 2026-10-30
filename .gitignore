@@ -1,0 +1,7 @@
+# Dependencies & temporary files
+node_modules/
+.gemini/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
